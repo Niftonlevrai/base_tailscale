@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # [Archived]
 
 Archived in favor of https://github.com/quiknode-labs/ansible_role_tailscale
